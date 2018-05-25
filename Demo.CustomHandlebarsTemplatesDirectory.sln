@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHandlebarsTemplatesDirectory.Test", "CustomHandlebarsTemplatesDirectory.Test\CustomHandlebarsTemplatesDirectory.Test.csproj", "{042264DA-0DDF-4005-B80F-4E94355BE3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042264DA-0DDF-4005-B80F-4E94355BE3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042264DA-0DDF-4005-B80F-4E94355BE3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042264DA-0DDF-4005-B80F-4E94355BE3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042264DA-0DDF-4005-B80F-4E94355BE3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDDB4551-3EEA-429B-B891-24C0146FA6DC}
+	EndGlobalSection
+EndGlobal
